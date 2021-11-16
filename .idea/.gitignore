@@ -8,6 +8,11 @@
 ### Java ###
 # Compiled class file
 *.class
+# xml file
+*.xml
+
+/out/
+/.settings/org.eclipse.jdt.core.prefs
 
 # Log file
 *.log
